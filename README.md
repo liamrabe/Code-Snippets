@@ -1,8 +1,7 @@
-## Code-Snippets
-A collection of code snippets I use in my projects.
+## String Generator
+Generate a string of x length
 
-### String Generator
-#### How to use it?
+### How to use it?
 
 ```php
 require "{path-to-folder}/StringGenerator.php";
